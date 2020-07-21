@@ -234,9 +234,7 @@ $("document").ready(function () {
             msgLoop(i);
           }
         });
-      // body...
     }
-
     msgLoop(0);
   });
 });
